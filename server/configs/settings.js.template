@@ -1,0 +1,22 @@
+//Rename this file in settings.js
+var settings = {};
+
+//APIs
+settings.api = {};
+
+//Facebook
+settings.api.fb = {};
+settings.api.fb.token = "";
+settings.api.fb.callback_url = "";
+
+//Twitter
+settings.api.twitter = {};
+settings.api.twitter.consumer_key = "";
+settings.api.twitter.consumer_secret = ""
+settings.api.twitter.access_token = ""
+settings.api.twitter.access_token_secret = ""
+
+//MongoDB
+settings.mongodb = {};
+settings.mongodb.url = "";
+settings.mongodb.database = "";

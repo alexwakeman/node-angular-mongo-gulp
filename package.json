@@ -1,0 +1,16 @@
+{
+  "name": "template-frontend",
+  "description": "This is a template to start quickly your project",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gulp-concat": "~2.3.4",
+    "gulp-less": "~1.3.3",
+    "gulp": "~3.8.6"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.0.1",
+    "gulp": "^3.8.11",
+    "browser-sync": "^2.7.6"
+  }
+}
